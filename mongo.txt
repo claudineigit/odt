@@ -1,0 +1,5 @@
+mongodb+srv://claudineiodt:espada1317@cluster0-ffzsk.gcp.mongodb.net/local_library?retryWrites=true&w=majority
+
+SET DEBUG=express-locallibrary-tutorial:* & npm run devstart
+
+https://github.com/claudineigit/odt.git
